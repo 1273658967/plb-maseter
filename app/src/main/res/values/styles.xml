@@ -12,6 +12,11 @@
         <item name="android:button">@drawable/checkbox_productinfo_style</item>
     </style>
 
+    <style name="My_CheckBox" parent="@android:style/Widget.Material.CompoundButton.CheckBox">
+        <item name="colorControlNormal">#f5f5f5</item>
+        <item name="colorControlActivated">@color/yellow_button</item>
+    </style>
+
     <style name="ck">
         <item name="android:button">@drawable/ck_all</item>
     </style>

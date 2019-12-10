@@ -12,6 +12,7 @@
         android:layout_centerVertical="true"
         android:layout_marginLeft="10dp"
         android:background="@null"
+        android:theme="@style/My_CheckBox"
         android:focusable="false"/>
     <TextView
         android:gravity="center"

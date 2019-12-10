@@ -329,6 +329,7 @@
 
     <item type="color" name="green_btn_color_disable">@color/app_green_alpha</item>
 
+    <color name="yellow_button">#F07108</color>
     <color name="green_btn_color_pressed">#ff298409</color>
     <color name="red_btn_color_normal">#ffff5454</color>
     <color name="red_btn_color_pressed">#ffd24242</color>
